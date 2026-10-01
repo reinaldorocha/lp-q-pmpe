@@ -2,7 +2,7 @@ import { createFileRoute } from "@tanstack/react-router";
 import { useEffect, useState } from "react";
 import heroImage from "../assets/hero-caderno.jpg";
 
-const CHECKOUT_URL = "https://app.profjonathanrocha.com.br/c/xzrewzh";
+const CHECKOUT_URL = "https://app.profjonathanrocha.com.br/c/d2rsblt";
 const WHATSAPP_URL =
   "https://api.whatsapp.com/send/?phone=5586988812196&text=Ol%C3%A1%21+Quero+informa%C3%A7%C3%B5es+sobre+o+Caderno+de+350+Quest%C3%B5es+PMPE";
 
